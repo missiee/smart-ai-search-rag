@@ -1,0 +1,22 @@
+ShopEasy Account Help
+
+1. Resetting your password
+On the login page, click Forgot Password and enter your registered email or mobile number. We send an OTP or a reset link that is valid for 15 minutes. Set a new password with at least 8 characters and one number.
+
+2. Did not receive the reset email or OTP
+Check your spam folder and wait 2 minutes. Then request a new link. Make sure you typed the same email or mobile number that you used to register.
+
+3. Account locked
+After 5 wrong password attempts, your account is locked for 30 minutes. After that time you can try again or reset your password.
+
+4. Changing your email or mobile number
+Go to Account Settings, then Profile. You must verify the new email or number with an OTP.
+
+5. Login with Google
+If you registered with Google, use the Continue with Google button and the same Google account.
+
+6. Two step verification
+You can turn on two step verification in Account Settings, then Security.
+
+7. Deleting your account
+Go to Account Settings and click Delete Account. Pending orders must be completed first. Your data is removed within 30 days.

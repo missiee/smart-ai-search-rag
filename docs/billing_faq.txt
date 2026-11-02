@@ -1,0 +1,22 @@
+ShopEasy Billing and Payments FAQ
+
+1. Downloading your invoice
+Go to My Orders, select the order and click Download Invoice. The invoice is available after the order is dispatched.
+
+2. GST invoice
+To get a GST invoice, enter your GST number at checkout. It cannot be added after the order is placed.
+
+3. Payment methods
+We accept UPI, credit and debit cards, net banking, ShopEasy Wallet and cash on delivery.
+
+4. Payment failed but money was deducted
+If money was deducted but no order was created, the bank automatically returns the amount within 5 to 7 working days. If it does not arrive, contact support with your transaction ID.
+
+5. Charged twice
+If you were charged twice for one order, send us the transaction ID and a screenshot. After verification, the extra amount is refunded within 7 working days.
+
+6. Coupons
+Only one coupon can be used per order. Coupons cannot be combined and cannot be used after the expiry date.
+
+7. EMI
+EMI is available on orders above 3000 rupees with selected credit cards for 3, 6 or 9 months.
